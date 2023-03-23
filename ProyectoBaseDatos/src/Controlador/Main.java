@@ -8,7 +8,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		Connection connection = DataBaseManager.getConnection();
-		System.out.println("Hola estoy es GIT");
+		System.out.println("Hola estoy es GITtttt");
 
 	}
 
